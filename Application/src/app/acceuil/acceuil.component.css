@@ -1,0 +1,53 @@
+.row {
+    content: "";
+    clear: both;
+    display: table;
+}
+.form {
+    background-color: #fff;
+    border-radius: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin-top: 50px;
+    padding: 100px;
+  }
+
+h1{
+  font-weight: bold;
+  font-style: italic;
+   text-align: center;
+   background-color: rgb(174, 231, 244);
+}
+p{
+  color:black;
+}
+h3{
+  font-weight: bold;
+  font-style: italic;
+   text-align: justify;
+   color:black;
+}
+h4{
+  font-weight:bold;
+  font-style: oblique;
+  background-color: rgb(208, 200, 200);
+}
+h5{
+  font-weight:extra bold;
+  font-style: italic;
+   text-align: center;
+   background-color: rgb(220, 153, 184);
+}
+ h6{
+  font-weight:normal;
+  font-style: italic;
+  background-color: rgb(246, 207, 225);
+}
+
+span{
+  background-color: rgb(208, 200, 200);
+}
+.scrollspy-example {
+    position: relative;
+    height: 200px;
+    overflow: auto;
+  }
